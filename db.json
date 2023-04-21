@@ -5,14 +5,16 @@
       "name": "Cherry",
       "age": 2,
       "place": "Visakhapatnam",
-      "gender": "Male"
+      "gender": "Male",
+      "img":"https://images.pexels.com/photos/2607544/pexels-photo-2607544.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
     },
     {
       "id": 1,
       "name": "Tommy",
       "age": 3,
       "place": "Banglore",
-      "gender": "Female"
+      "gender": "Female",
+      "img":"https://thumbs.dreamstime.com/b/golden-retriever-dog-21668976.jpg"
     }
   ]
 }
